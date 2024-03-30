@@ -6,32 +6,146 @@ format: revealjs
 
 ## Fostering a Growth Mindset with IBL
 
-Blah blah blah.
+- Began using IBL in 2011
+
+  - Thanks to these MAA meeting at SUU and Ted Mahavier's invited address
+
+- The Power of Yet
+
+![](https://ih1.redbubble.net/image.584764571.3407/flat,550x550,075,f.u2.jpg){height=300}
+![](https://byuimath.com/bmw/all/109/uploads/Schedule/notyet.jpeg){height=300}
 
 
-## Traditional Exams
+## Traditional Assessment
 
-blah blah blah
+- Does your daily homework reinforce a fixed mindset, or encourage growth?
+- High stakes exams?
+- Sal Kahn's [Let's teach for mastery -- not test scores](https://youtu.be/-MTRxRO5SRA?t=137)
 
-## Specifications Grading
+![](https://ih1.redbubble.net/image.584764571.3407/flat,550x550,075,f.u2.jpg){height=300}
+![](https://byuimath.com/bmw/all/109/uploads/Schedule/notyet.jpeg){height=300}
 
-* Data Wrangling and Visualization
-* Linda B Nilson's book
-* Data Wrangling and Visualization
+## Specifications Grading 
+
+- Data Wrangling and Visualization at BYUI
+
+![](dwv-2019.png)
+
+## Spring 2020 - Sabbatical
+
+![](specifications_grading_amazon_image.jpg){width=200}
+![](punished_by_rewards_image.jpg){width=200}
+![](punished_by_misunderstanding.png){width=300}
+
+* Grading using Complete/Not Yet
+* Andragogy - Self-Directed Learning
+
+## There ARE Alternatives
+
+* Specifications Grading
+* Standards-based Grading
+* Ungrading
+* More
+
+## Multivariable Calculus
+
+![](215.png)
+
+## Weekly Quizzes
+
+> “There is a difference between not knowing, and not knowing yet.” - C.J. Luckey, [The Power of Yet](https://www.youtube.com/watch?v=J6CnrFvY94E)
+
+- Assessment Friday
+- Quiz grows each week
+  - Students attempt only what's needed
+  - Reassessment available each week
+
+## Self-Directed Learning Projects
+
+> "Individuals who have learned how to learn can organize their own learning, transfer new information to larger contexts, overcome difficulties, and they are open to development and change, they possess self-confidence and awareness, they are willing to learn, they can use various learning strategies, and they know their own learning styles, interests and talents. Learning how to learn is among the fundamental skills of lifelong learning." - [Tekkol and Demirel](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02324/full)
 
 ## The Grading Conference
 
-https://thegradingconference.com/
+* Conferences held online. 
+* Previous conference recordings are freely available. 
 
-* 2020 - https://www.youtube.com/playlist?list=PL3zASNOqvQP1DQv5VFZ6sl4bC6jIgYj1L
-* 2021 - https://www.youtube.com/playlist?list=PL3zASNOqvQP3sXx9fSWKRC7kYx9V4PFkf
-* 2022 and beyond, partnered with 
+![](mgc-2020.png){width=400}
+![](mgc-2021.png){width=400}
+
+* [https://thegradingconference.com/](https://thegradingconference.com/)
+* This year: June 13th – 15th, 2024
 
 
-## Grading for Growth
+## Resources
 
-Grading for Growth
-A Guide to Alternative Grading Practices that Promote Authentic Learning and Student Engagement in Higher Education 
-By David Clark, Robert Talbert
 
-https://www.routledge.com/Grading-for-Growth-A-Guide-to-Alternative-Grading-Practices-that-Promote/Clark-Talbert/p/book/9781642673814
+![](grading_for_growth_amazon.jpg){width=300}
+![](specifications_grading_amazon_image.jpg){width=300}
+![](punished_by_rewards_image.jpg){width=300}
+
+## Thank you
+
+## Images
+
+* Images from Amazon and Redbubble
+
+
+
+
+
+
+
+
+<!---
+What are my goals. 
+
+Abstract:
+I’ll share my four year journey as I transitioned away from traditional assessments towards alternative growth-oriented assessments. I’ll highlight reasons for the change, resources that helped ease the transition, as well as successes and failures along the way. I’ll also share how andragogy can help empower self-directed learning in the classroom.
+
+I began using IBL back in 2011, thanks in a large part to the section meeting at SUU and Ted Mahavier's invited address. I have witnessed a sustained increase in student performance and pass rates over the last 13 years, with one other teacher jumping on board and experiencing similar results. It's been a great experience. 
+
+However, one part of my course has consistently plagued me.  The nature of IBL encourages students to explore, experiment, try, learn from mistakes, so in other words grow.  The method fosters a growth mind set.  However, my assessments remained the same. After a couple units, we have an exam. Your performance is evaluated and then permanently fixed in the gradebook for the rest of the semester. Performance on these exams largerly determined a student's grade in the course.  The messaging behind traditional exams reinforced a fixed mindset. You've either got it by the time the teacher decides you need to, or you don't, and that score gets fixed.  
+
+The learning principles of IBL and traditional assessment were contradictory.  How to fix this?
+
+In 2019 I offered to help develop and teach some of the courses in our newish data science program.
+Our Data Wrangling and Visualization course was designed using specification grading principles. 
+I got to see a model in action that emphasized growth based assessments.  
+Students completed Tasks and Case studies. 
+Each task and case study was graded complete/incomplete, and could be resubmitted as needed. 
+As an instructor, my goal was to evaluate if something had met the stated specifications.
+If it met the specs, it was complete.  Otherwise, the student got feedback and a change for reevaluation. 
+Not too novel, but not like anything I'd ever before seen.  
+
+I was up for a sabbatical in Spring 2020 (when COVID hit), and used the sabbatical to study alternative assessments. 
+* Linda B. Nilson's Specifications Grading text was a great starting point. 
+* I read Alfie Kohn's Punished by Rewards, and then multiple rebuttles including David Reitman's Punished by Misunderstand. I took away from this exploration that when a judgment must be made, a binary evaluation is ideal. Little room is left for subjective biased viewpoints. Something either meets, or does not meet, what is required. 
+
+How do you implement this in a class room.  
+Linda Nilson' text provides a lot of ideas.  Very few are from math. 
+In steps "The Grading Conference". 
+This conference started occuring yearing in 2020, under the name "Mastery Grading Conference"
+Much of the literature surrounding specifications and standards-based grading fall under the umbrella "mastery" grading. Unfortunately the word "master" has negative connotations connect with slavery, and so out of respect the conference has changed it's name to "The Grading Conference."  
+You'll find talk after talk after talk providing practical ways to set up a course that incorporates principles of grading for growth. 
+
+Robert Talbert's blogs were also instrumental in helping me get things set up. 
+
+Let me share how I have set up a  few courses. 
+
+
+Multivariable Calculus
+(picture of syllabus)
+
+
+
+
+They don't need my whole life story.  What do they need?  
+* Motivation for why?
+* Know it's possible.
+* Some practical examples. 
+* Where to go for more resources. 
+* Self-Direct Learning
+
+--->
+
+

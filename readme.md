@@ -1,5 +1,7 @@
 This is a place to keep my conference talk/notes for the talk *Grading for Growth*
 
+You can access the slides at [https://bmwoodruff.github.io/grading-for-growth/grading-for-growth.html](https://bmwoodruff.github.io/grading-for-growth/grading-for-growth.html)
+
 * Sal Kahn's video: https://youtu.be/-MTRxRO5SRA?t=137
 * Linda B. Nilson's *Yes, Virginia, There's a Better Way to Grade*: https://www.insidehighered.com/views/2016/01/19/new-ways-grade-more-effectively-essay
 * *Punished by Rewards*, Alfie Kohn

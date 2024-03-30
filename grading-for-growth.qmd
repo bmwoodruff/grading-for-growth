@@ -56,7 +56,7 @@ format: revealjs
 > “There is a difference between not knowing, and not knowing yet.” - C.J. Luckey, [The Power of Yet](https://www.youtube.com/watch?v=J6CnrFvY94E)
 
 - Assessment Friday
-- Quiz grows each week
+- [Quiz](https://www.dropbox.com/s/maajnxwn2avwmrm/Week14BQuiz.pdf?dl=0) grows each week
   - Students attempt only what's needed
   - Reassessment available each week
 
@@ -84,6 +84,11 @@ format: revealjs
 ![](punished_by_rewards_image.jpg){width=300}
 
 ## Thank you
+
+## Intro to Analysis
+
+![](301.png){width=300}
+
 
 ## Images
 
